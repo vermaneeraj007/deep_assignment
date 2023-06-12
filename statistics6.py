@@ -1,5 +1,5 @@
 
-
+                #Answer 6 statistics-----
 
 import pandas as pd
 
